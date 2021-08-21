@@ -1,0 +1,4 @@
+RENCANA BELAJAR DHEA
+
+-mempelajari GIT dan GITHUB
+-instalasi vm-ware dan debian
