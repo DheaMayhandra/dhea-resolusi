@@ -1,0 +1,5 @@
+RENCANA BELAJAR DHEA
+
+-mempelajari GIT dan GITHUB
+. mengikuti tutor pada playlist wpu
+-instalasi vm-ware dan debian
